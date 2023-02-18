@@ -1,0 +1,12 @@
+# autodetect text files
+* text=auto
+
+*.css         text eol=lf
+*.js          text eol=lf
+*.jsx         text eol=lf
+*.ts          text eol=lf
+*.tsx         text eol=lf
+.babelrc      text eol=lf
+.editorconfig text eol=lf
+.json         text eol=lf
+.md           text eol=lf

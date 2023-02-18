@@ -102,3 +102,29 @@ dist
 
 # TernJS port file
 .tern-port
+
+# dependencies
+/coverage
+/reports
+
+# production
+/build
+
+# misc
+.npmrc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env.development.local
+/.env.
+/.npmrc
+/.gitconfig
+
+debug.log*
+
+/.idea
+/.vscode
+
+# settings
+.prettierrc
