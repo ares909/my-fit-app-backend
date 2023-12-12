@@ -1,2 +1,1 @@
-# myFItAppBackend
-Node js backend for myFitApp
+Тут будет ридми
